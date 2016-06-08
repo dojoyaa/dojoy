@@ -1,0 +1,18 @@
+platform :ios,'8.0'
+target "动享"
+pod 'AFNetworking', '~> 3.0.4'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'SBJson', '~> 4.0.1'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'MJRefresh', :git => 'https://github.com/CoderMJLee/MJRefresh.git'
+pod 'Masonry', '~> 0.6.2'
+pod 'UMengAnalytics-NO-IDFA'
+pod 'JSONModel'
+pod 'ImagePlayerView'
+pod 'AMap2DMap'
+pod 'AMapSearch'
+pod 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
+pod 'IQKeyboardManager'
+pod 'KVOController'
+#环信，包含实时语音版本 SDK
+#pod 'HyphenateFullSDK', :git => 'https://github.com/easemob/hyphenate-full-cocoapods.git'
